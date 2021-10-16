@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Part 1 HTML Modifications
+=================
 
+* Remove css style block and link to the external gutenberg.css
+* Change accessable path of the cover image (with tag div class="fig c8") of gutenberg1.html and gutenberg2.html from online resource link to image folder path
+* Change table format of gutenberg2.html from single column to 3 by 7 table
+* Add horizontal bar between the bookname and content sections of gutenberg3.html
+* Lower case the text "CONTENT" to "Content" in gutenberg3
+* Change table format of gutenberg2.html from single column to 4 by 7 table
