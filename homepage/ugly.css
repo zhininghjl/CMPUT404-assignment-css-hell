@@ -1,0 +1,64 @@
+body {
+    background-color: #95a72d;
+    font-family: monospace;
+    font-size: large;
+}
+h1 {
+    color:  #ffd700;
+    font-size: xx-large;
+}
+h3{
+    color:  #ff0000;
+    font-style: italic;
+    font-family: fantasy;
+}
+h4 {
+    color:  #0000ff;
+    font-family: cursive;
+}
+section  {
+	padding-top: 2em;
+}
+.container {
+    display: flex;
+}
+/* sidebar begins */
+.sidebar {
+    color: #adff2f;
+    background-color:  #000080;
+    padding: 2em;
+    float: left;
+    width: 30%;
+}
+img{
+    border:  #95a72d 1em double;
+    width: 90%;
+}
+.contact {
+    color:  #87ceeb;
+    font-family: fantasy;
+    text-align: center;
+    background-color:  #008080;
+	padding-top: 0;
+}
+a {
+	text-decoration: none;
+}
+/* sidebar ends */
+/* contents begins */
+.contents {
+    padding: 2em;
+    background-color:  #000000;
+    width: 70%;
+}
+.intro {
+    color:  #008000;
+}
+.experience {
+	color:  #ff00ff;
+	padding-top: 0;
+}
+.skill {
+	color:  #ffa500;
+}
+/* contents ends */
