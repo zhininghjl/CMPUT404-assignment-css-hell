@@ -19,9 +19,13 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
 
+
+Textual content is copyright Zhining He (C) 2021 under the CC-BY-SA
+4.0 unported license. Attribution should be a hyperlink to the
+repository and (C) 2021 Zhining He visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
-Part 1 HTML Modifications
+Gutenberg HTML Modifications
 =================
 
 * Remove css style block and link to the external gutenberg.css
